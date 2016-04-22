@@ -5,74 +5,71 @@ Igarashi1999SG
 AndrewNealen2007
 [2] Andrew Nealen, Takeo Igarashi, Olga Sorkine, et al. FiberMesh: designing freeform surfaces with 3D curves. ACM Transactions on Graphics, 2007, 26(3): Article No. 41.
 
-Talton2009
-[3] Jerry O. Talton and Daniel Gibson and Lingfeng Yang and Pat Hanrahan and Vladlen Koltun. Exploratory modeling with collaborative design spaces. ACM Transacitons on Graphics, 2009, 28(5): Article No. 167.
-
 Chaudhuri2010
-[4] Siddhartha Chaudhuri and Vladlen Koltun. Data-driven suggestions for creativity support in 3D modeling. ACM Transacitons on Graphics, 2010, 29(6): Article No. 183.
+[3] Siddhartha Chaudhuri and Vladlen Koltun. Data-driven suggestions for creativity support in 3D modeling. ACM Transacitons on Graphics, 2010, 29(6): Article No. 183.
 
 Chaudhuri2011
-[5] Siddhartha Chaudhuri and Evangelos Kalogerakis and Leonidas Guibas and Vladlen Koltun. Probabilistic reasoning for assembly-based 3D modeling. ACM Transacitons on Graphics, 2011, 30(4): Article No. 35.
+[4] Siddhartha Chaudhuri and Evangelos Kalogerakis and Leonidas Guibas and Vladlen Koltun. Probabilistic reasoning for assembly-based 3D modeling. ACM Transacitons on Graphics, 2011, 30(4): Article No. 35.
 
 Xu2012SG
-[6] Kai Xu and Hao Zhang and Daniel Cohen-Or and Chen Baoquan. Fit and diverse: set evolution for inspiring 3D shape galleries. ACM Transactions on Graphics, 2012, 31(4): Article No. 57.
+[5] Kai Xu and Hao Zhang and Daniel Cohen-Or and Chen Baoquan. Fit and diverse: set evolution for inspiring 3D shape galleries. ACM Transactions on Graphics, 2012, 31(4): Article No. 57.
 
 Kalogerakis2012SG
-[7] Evangelos Kalogerakis and Siddhartha Chaudhuri and Daphne Koller and Vladlen Koltun. A probabilistic model for component-based shape synthesis. ACM Transactions on Graphics, 2012, 31(4): Article No. 55.
+[6] Evangelos Kalogerakis and Siddhartha Chaudhuri and Daphne Koller and Vladlen Koltun. A probabilistic model for component-based shape synthesis. ACM Transactions on Graphics, 2012, 31(4): Article No. 55.
 
 Guo2014GM
-[8] Xuekun Guo and Juncong Lin and Kai Xu and Xiaogang Jin. Creature grammar for creative modeling of 3D monsters. Graphical Models, 2014, 76(5): 376-389.
+[7] Xuekun Guo and Juncong Lin and Kai Xu and Xiaogang Jin. Creature grammar for creative modeling of 3D monsters. Graphical Models, 2014, 76(5): 376-389.
 
 Xie2013CGF
-[9] Xie, Xiaohua and Xu, Kai and Mitra, Niloy J. and Cohen-Or, Daniel and Gong, Wenyong and Su, Qi and Chen, Baoquan. Sketch-to-Design: context-based part assembly. Computer Graphics Forum, 2013, 32(8): 233-245.
+[8] Xie, Xiaohua and Xu, Kai and Mitra, Niloy J. and Cohen-Or, Daniel and Gong, Wenyong and Su, Qi and Chen, Baoquan. Sketch-to-Design: context-based part assembly. Computer Graphics Forum, 2013, 32(8): 233-245.
 
 Fan2013CGF
-[10] Fan, Lubin and Wang, Ruimin and Xu, Linlin and Deng, Jiansong and Liu, Ligang. Modeling by drawing with shadow guidance. Computer Graphics Forum, 2013, 32(7): 157-166.
+[9] Fan, Lubin and Wang, Ruimin and Xu, Linlin and Deng, Jiansong and Liu, Ligang. Modeling by drawing with shadow guidance. Computer Graphics Forum, 2013, 32(7): 157-166.
 
 Borosan2012
-[11] Peter Borosan and Ming Jin and Doug DeCarlo and Yotam Gingold and Andrew Nealen. RigMesh: automatic rigging for part-based shape modeling and deformation. ACM Transacitons on Graphics, 2012, 31(6): Article No. 198.
+[10] Peter Borosan and Ming Jin and Doug DeCarlo and Yotam Gingold and Andrew Nealen. RigMesh: automatic rigging for part-based shape modeling and deformation. ACM Transacitons on Graphics, 2012, 31(6): Article No. 198.
 
 Jin2015
-[12] Jin, Ming and Gopstein, Dan and Gingold, Yotam and Nealen, Andrew. AniMesh: interleaved animation, modeling, and editing. ACM Transactions on Graphics, 2015, 34(6): 207.
+[11] Jin, Ming and Gopstein, Dan and Gingold, Yotam and Nealen, Andrew. AniMesh: interleaved animation, modeling, and editing. ACM Transactions on Graphics, 2015, 34(6): 207.
 
 Cali2012SG
-[13] Jacques Cali and Dan A. Calian and Cristina Amati and Rebecca Kleinberger and Anthony Steed and Jan Kautz and Tim Weyrich. 3D-printing of non-assembly, articulated models. ACM Transactions on Graphics, 2012, 31(6): Article No. 130.
+[12] Jacques Cali and Dan A. Calian and Cristina Amati and Rebecca Kleinberger and Anthony Steed and Jan Kautz and Tim Weyrich. 3D-printing of non-assembly, articulated models. ACM Transactions on Graphics, 2012, 31(6): Article No. 130.
 
 Moritz2012
-[14] Moritz Bacher and Bernd Bickel and Doug L. James and Hanspeter Pfister. Fabricating articulated characters from skinned meshes. ACM Transactions on Graphics, 2012, 31(4): Article No. 47.
+[13] Moritz Bacher and Bernd Bickel and Doug L. James and Hanspeter Pfister. Fabricating articulated characters from skinned meshes. ACM Transactions on Graphics, 2012, 31(4): Article No. 47.
 
 Prevost2013TOG
-[15] Prevost, Romain and Whiting, Emily and Lefebvre, Sylvain and Sorkine-Hornung, Olga. Make it stand: balancing shapes for 3D fabrication. ACM Transactions on Graphics, 2013, 32(4): 81:1-81:10.
+[14] Prevost, Romain and Whiting, Emily and Lefebvre, Sylvain and Sorkine-Hornung, Olga. Make it stand: balancing shapes for 3D fabrication. ACM Transactions on Graphics, 2013, 32(4): 81:1-81:10.
 
 Zhao2016GMP
-[16] Haiming Zhao and Chengkuan Hong and Juncong Lin and Xiaogang Jin and Weiwei Xu. Make it swing: fabricating personalized roly-poly toys. Computer Aided Geometric Design, 2016.
+[15] Haiming Zhao and Chengkuan Hong and Juncong Lin and Xiaogang Jin and Weiwei Xu. Make it swing: fabricating personalized roly-poly toys. Computer Aided Geometric Design, 2016.
 
 kavan10SAM
-[17] Ladislav Kavan and Peter-Pike Sloan and Carol O'Sullivan. Fast and efficient skinning of animated meshes. Computer Graphics Forum, 2010, 29(2): 327-336.
+[16] Ladislav Kavan and Peter-Pike Sloan and Carol O'Sullivan. Fast and efficient skinning of animated meshes. Computer Graphics Forum, 2010, 29(2): 327-336.
 
 Jacobson2014SGCourse
-[18] Jacobson, Alec and Deng, Zhigang and Kavan, Ladislav and Lewis, J. P.. Skinning: real-time shape deformation. ACM SIGGRAPH 2014 Courses. Vancouver, Canada, 2014: 24:1-24:1.
+[17] Jacobson, Alec and Deng, Zhigang and Kavan, Ladislav and Lewis, J. P.. Skinning: real-time shape deformation. ACM SIGGRAPH 2014 Courses. Vancouver, Canada, 2014: 24:1-24:1.
 
 Funkhouser2004
-[19] Thomas Funkhouser and Michael Kazhdan and Philip Shilane and Patrick Min and William Kiefer and Ayellet Tal and Szymon Rusinkiewicz and Dobkin, David. Modeling by example. ACM Transactions on Graphics 2004, 23(3): 652-663.
+[18] Thomas Funkhouser and Michael Kazhdan and Philip Shilane and Patrick Min and William Kiefer and Ayellet Tal and Szymon Rusinkiewicz and Dobkin, David. Modeling by example. ACM Transactions on Graphics 2004, 23(3): 652-663.
 
 YuZhoXuShiBaoGuoShu04
-[20] Yizhou Yu and Kun Zhou and Dong Xu and Xiaohan Shi and Hujun Bao and Baining Guo and Shum, Heung-Yeung. Mesh editing with poisson-based gradient field manipulation. ACM Transactions on Graphics 2004, 23(3): 644-651.
+[19] Yizhou Yu and Kun Zhou and Dong Xu and Xiaohan Shi and Hujun Bao and Baining Guo and Shum, Heung-Yeung. Mesh editing with poisson-based gradient field manipulation. ACM Transactions on Graphics 2004, 23(3): 644-651.
 
 Kazhdan2005SGP
-[21] Kazhdan, Michael. Reconstruction of solid models from oriented point sets. Proceedings of the Third Eurographics Symposium on Geometry Processing (SGP '05). Vienna, Austria, 2005: 73.
+[20] Kazhdan, Michael. Reconstruction of solid models from oriented point sets. Proceedings of the Third Eurographics Symposium on Geometry Processing (SGP '05). Vienna, Austria, 2005: 73.
 
 ZhoPanZor13
-[22] Qingnan Zhou and Julian Panetta and Denis Zorin. Worst-case structural analysis. ACM Transactions on Graphics 2013, 32(4): Article No. 137.
+[21] Qingnan Zhou and Julian Panetta and Denis Zorin. Worst-case structural analysis. ACM Transactions on Graphics 2013, 32(4): Article No. 137.
 
 Wang2005CISE
-[23] Wang, Charlie C and Tang, Kai. Optimal boundary triangulations of an interpolating ruled surface. Journal of Computing and Information Science in Engineering, 2005, 5(4): 291-301.
+[22] Wang, Charlie C and Tang, Kai. Optimal boundary triangulations of an interpolating ruled surface. Journal of Computing and Information Science in Engineering, 2005, 5(4): 291-301.
 
 Han2010
-[24] Han, Shuchu and Xia, Jiazhi and He, Ying. Hexahedral shell mesh construction via volumetric polycube map: Proceedings of ACM Symposium on Solid and Physical Modeling (SPM '10). Haifa, Israel, 2010: 127-136.
+[23] Han, Shuchu and Xia, Jiazhi and He, Ying. Hexahedral shell mesh construction via volumetric polycube map: Proceedings of ACM Symposium on Solid and Physical Modeling (SPM '10). Haifa, Israel, 2010: 127-136.
 
 BarPop07
-[25] Ilya Baran and Jovan Popovic. Automatic rigging and animation of 3D characters. ACM Transactions on Graphics, 2007, 26(3): Article No. 72.
+[24] Ilya Baran and Jovan Popovic. Automatic rigging and animation of 3D characters. ACM Transactions on Graphics, 2007, 26(3): Article No. 72.
 
 Kalogerakis2010SG
-[26] Kalogerakis, Evangelos and Hertzmann, Aaron and Singh, Karan. Learning 3D mesh segmentation and labeling. ACM Transactions on Graphics, 2010, 29(4): 102:1-102:12.
+[25] Kalogerakis, Evangelos and Hertzmann, Aaron and Singh, Karan. Learning 3D mesh segmentation and labeling. ACM Transactions on Graphics, 2010, 29(4): 102:1-102:12.
